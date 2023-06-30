@@ -14,9 +14,9 @@ From this task, I refreshed my memory on Oops, Java and learned a new skills i.e
 
 A company has brought on Accenture to take over the development of their e-commerce website. I’ve recently implemented a new search API for them and now they’ve identified some code in the ReportController class that seems to be doing similar product searching. I was asked to refactor the SearchController logic into a new SearchService class that can be used in the SearchController as well as in the ReportController.
 In this task, I have:
-### 1) Moved the logic from SearchController to SearchService
-### 2) Updated SearchController and ReportController both to use the SearchService
-### 3) Passed all unit tests
+##### 1) Moved the logic from SearchController to SearchService
+##### 2) Updated SearchController and ReportController both to use the SearchService
+##### 3) Passed all unit tests
 
 From this task, I learned how to refactor the code, Java and Spring.
 
@@ -26,10 +26,10 @@ Continuous Integration is the practice of automating the integration of code cha
 
 In this task, I have:
 
-### 1) Created a GitHub account, Setup a Git CLI, forked and cloned a mock-company-webapp repository
-### 2) Defined a Jenkinsfile with stages setting it up to run on commit to any branch in the repository
-### 3) Made the Continuous Integration server to run build/test and succeeds
-### 4) Change made to code that breaks test. Continuous Integration server runs build/test and fails
+##### 1) Created a GitHub account, Setup a Git CLI, forked and cloned a mock-company-webapp repository
+##### 2) Defined a Jenkinsfile with stages setting it up to run on commit to any branch in the repository
+##### 3) Made the Continuous Integration server to run build/test and succeeds
+##### 4) Change made to code that breaks test. Continuous Integration server runs build/test and fails
 
 From this task, I learned Continuous Integration, Jenkins & DevOps.
 
@@ -37,10 +37,10 @@ From this task, I learned Continuous Integration, Jenkins & DevOps.
 
 In an Agile planning session, developers are given a set of large software features that they then must break up into smaller units of work, called stories, that can be completed within a one to three week period, called a sprint. A story is an informal, general explanation of a software feature written from the perspective of the end user or customer and is made up of the following components:
 
-### Who the feature is for
-### What they need
-### Why they need it
-### What shows it’s done
+##### Who the feature is for
+##### What they need
+##### Why they need it
+##### What shows it’s done
 
 In this task, I was asked to create a document that defines around 10 to 20 stories around the checkout feature.
 

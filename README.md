@@ -8,7 +8,7 @@ The first task they need help with is searching for products.
 One of the UX designers at Accenture has already implemented the new search capability in the UI. It’s my responsibility to implement the search capability in our backend Java app.
 In this task, I was asked to write a class to perform search on an interactive website.
 
-From this task, I refreshed my memory on Oops, Java and learned a new skills i.e., Spring.
+From this task, I refreshed my memory on Oops, Java and learned a new skill i.e., Spring.
 
 ## Task 2: Code Refactoring
 
